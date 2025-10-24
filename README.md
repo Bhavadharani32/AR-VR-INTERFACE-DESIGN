@@ -30,3 +30,14 @@ THIS TASK HELPED ME GAIN PRACTICAL KNOWLEDGE IN UI/UX DESIGN PRINCIPLES, COLOR P
 
 ##OUTPUT
 
+
+<img width="1152" height="853" alt="Image" src="https://github.com/user-attachments/assets/2d6df7ab-fa0d-4b14-9842-df05acc56e1d" />
+
+
+<img width="1147" height="844" alt="Image" src="https://github.com/user-attachments/assets/d084742a-db44-47dd-8751-abe29618343c" />
+
+
+<img width="1144" height="844" alt="Image" src="https://github.com/user-attachments/assets/f3b3973e-75c3-4e7a-add0-da28e4bde7a6" />
+
+
+<img width="1147" height="842" alt="Image" src="https://github.com/user-attachments/assets/b205b21a-7937-45af-a2bf-3c58454ac3b4" />
